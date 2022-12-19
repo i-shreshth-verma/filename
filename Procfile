@@ -1,0 +1,1 @@
+web guicorn fileupload.wsgi:application --log-file -
